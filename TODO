@@ -1,9 +1,8 @@
 MemQuery
 ========
-* make working build 
-* clean up this stupid file structure
 * create a sparse sample algo that dumps random memory points into a time series database (eg influxdb), with hopes of constructing a decently acturate picture over time without interupting the target process
 * analyze/query/visualize (eg graphana) the time series data to find relevant memory addresses 
+* clean up this stupid file structure
 
 Current
 =======
